@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: >-
+  Classification Techniques in Machine Learning for Breast
+  Cancer Prediction
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Aashi
+    family-names: Agarwal
+repository-code: >-
+  https://github.com/aashiagarwal2006/classificationPredictionUsingML
+version: 1.0.0
+date-released: '2023-11-01'
